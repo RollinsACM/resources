@@ -15,7 +15,7 @@ Creating a strong resume is key to landing your next internship or full-time job
 
 We’ve provided a few downloadable resume templates to help you get started. These templates are designed specifically for Computer Science students and professionals.
 
-**[Download Resume Templates](resume_help.docx)**
+**[Download Resume Templates](resume_help.docx)** - Right-click to download
 
 ### 3. **Job Boards**
 - **[Indeed](https://www.indeed.com/)**: Search for tech-related jobs and internships.
