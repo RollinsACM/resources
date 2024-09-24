@@ -19,7 +19,7 @@ We’ve provided a few downloadable resume templates to help you get started. Th
 
 ### 3. **Job Boards**
 - **[Indeed](https://www.indeed.com/)**: Search for tech-related jobs and internships.
-- **[AngelList](https://angel.co/)**: A platform to find jobs in startups.
+- **[Wellfound](https://wellfound.com)**: A platform to find jobs in startups.
 - **[Glassdoor](https://www.glassdoor.com/)**: Read company reviews, find salaries, and apply for jobs.
 - **[Handshake](https://joinhandshake.com/)**: College students can use this platform to connect with employers and search for job openings.
 
